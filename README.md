@@ -10,7 +10,7 @@ Este repositório contém uma coleção de scripts e mensagens divertidas para t
 
 3. Abra o WhatsApp Web em seu navegador.
 
-4. Pressione `Ctrl + Shift + I` (ou `Cmd + Option + I` para Mac) para abrir as ferramentas de desenvolvedor (Inspeção).
+4. Pressione F12, `Ctrl + Shift + I` (ou `Cmd + Option + I` para Mac) para abrir as ferramentas de desenvolvedor (Inspeção).
 
 5. Vá para a guia "Console".
 
